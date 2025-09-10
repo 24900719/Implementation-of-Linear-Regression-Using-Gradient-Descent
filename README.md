@@ -1,5 +1,3 @@
-<img width="741" height="163" alt="image" src="https://github.com/user-attachments/assets/4fb2632a-fb00-4683-8a49-b9acb5bb63ee" /># Implementation-of-Linear-Regression-Using-Gradient-Descent
-
 ## AIM:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
 
@@ -8,7 +6,7 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-<img width="688" height="710" alt="image" src="https://github.com/user-attachments/assets/ba8b06f8-d5a9-40f6-ac3d-8917bf3f7507" />
+<img width="922" height="901" alt="Screenshot 2025-09-10 121810" src="https://github.com/user-attachments/assets/c61587c3-8972-4cf7-93c7-bab294b544e1" />
 
 
 ## Program:
